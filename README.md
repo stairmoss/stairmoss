@@ -37,6 +37,7 @@ I am a passionate developer from Kerala, India, focused on building AI-powered h
 - **instagram:** https://www.instagram.com/_.adarsheyy_
 
 ---
+---
 ## 📊 My Coding Activity (Hackatime)
 
 ![Hackatime Stats](https://waka-readme-stats.vercel.app/api?username=stairmoss&layout=compact&theme=radical&langs_count=10)
