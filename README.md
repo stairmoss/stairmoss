@@ -1,6 +1,6 @@
 # 👋 Hi, I'm A. Adarsh (stairmoss)
 
-### 🚀 13-Year-Old Developer | Innovator | Vibe Coder | Entrepreneur
+### 🚀 14-Year-Old Developer | Innovator | Vibe Coder | Entrepreneur
 
 I am a passionate developer from Kerala, India, focused on building AI-powered hardware and software solutions that solve real-world problems. I lead **HackPKD** (a Hack Club chapter) and I'm the CEO & CTO of **Zentalic Labs**. I love "vibe coding" using agentic IDEs to bring ideas to life at lightning speed.
 
