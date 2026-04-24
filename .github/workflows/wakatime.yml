@@ -1,0 +1,24 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # This runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # This lets you run it manually whenever you want
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # This tells the robot to look at Hack Club's server instead of the standard one
+          API_BASE_URL: https://hackatime.hackclub.com/api/hackatime/v1
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: 📋
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
