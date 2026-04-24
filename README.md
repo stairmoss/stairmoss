@@ -9,7 +9,7 @@ I am a passionate developer from Kerala, India, focused on building AI-powered h
 ### 🛠️ What I'm Building
 - **[ELDA](https://github.com/stairmoss)**: A localized AI caregiving system for Alzheimer's patients using 40Hz stimulation and ECG monitoring for privacy-focused care.
 - **[OREO V2](https://github.com/stairmoss/OREO-robot_dog)**: A high-performance 12-DOF quadruped robot powered by ROS 2 Humble and Raspberry Pi.
-- **[ZYNX AI](https://github.com/stairmoss)**: An autonomous marketing synthesis engine for beat-synced video production.
+- **[ZYNX AI](https://github.com/stairmoss)**: surprise soon !
 - **[Axion](https://github.com/stairmoss/Axion-nipa_virus-disinfectionrobot)**: An AI-driven autonomous air sanitization machine designed to combat viruses.
 
 ---
