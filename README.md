@@ -33,8 +33,13 @@ I am a passionate developer from Kerala, India, focused on building AI-powered h
 ### 🌐 Let's Connect
 - **Organization:** [Zentalic Labs](https://github.com/stairmoss)
 - **Community:** [Hack Club](https://hackclub.com)
-- **Location:** Palakkad / Kochi, Kerala, India
+- **Location:** Palakkad , Kerala, India
+- **instagram:** https://www.instagram.com/_.adarsheyy_
 
+---
+## 📊 My Coding Activity (Hackatime)
+
+![Hackatime Stats](https://waka-readme-stats.vercel.app/api?username=stairmoss&layout=compact&theme=radical&langs_count=10)
 ---
 
 ### 📊 GitHub Stats
