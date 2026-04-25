@@ -15,11 +15,11 @@ I am a passionate developer from Kerala, India, focused on building AI-powered h
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, JavaScript, C/C++, Sanskrit
+- **Languages:** Python, JavaScript, C/C++, HTML , CSS , Dart , Kotlin
 - **AI & ML:** Local LLMs (Ollama/Qwen), Computer Vision, Autonomous Systems
 - **Hardware:** ESP32, Raspberry Pi, Arduino, ROS 2, PCB Design (KiCad)
 - **Frameworks:** Full Stack Web, Python Stack
-- **Tools:** Cursor, Windsurf, WSL, GitHub Desktop
+- **Tools:**VS Code , Cursor, Windsurf, WSL, GitHub Desktop
 
 ---
 
