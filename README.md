@@ -29,7 +29,6 @@
 
 ### Activity Metrics
 
-[![Hackatime Stats](https://waka-readme-stats.vercel.app/api?username=stairmoss&layout=compact&theme=radical&langs_count=10)](https://github.com/stairmoss)
 
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)](https://github.com/stairmoss)
 
