@@ -1,50 +1,35 @@
-# 👋 Hi, I'm A. Adarsh (stairmoss)
+# A. Adarsh (stairmoss)
 
-### 🚀 14-Year-Old Developer | Innovator | Vibe Coder | Entrepreneur
-
-I am a passionate developer from Kerala, India, focused on building AI-powered hardware and software solutions that solve real-world problems. I lead **HackPKD** (a Hack Club chapter) and I'm the CEO & CTO of **Zentalic Labs**. I love "vibe coding" using agentic IDEs to bring ideas to life at lightning speed.
+*Building at the intersection of AI, hardware, and autonomous systems.*
 
 ---
 
-### 🛠️ What I'm Building
-- **[ELDA](https://github.com/stairmoss)**: A localized AI caregiving system for Alzheimer's patients using 40Hz stimulation and ECG monitoring for privacy-focused care.
-- **[OREO V2](https://github.com/stairmoss/OREO-robot_dog)**: A high-performance 12-DOF quadruped robot powered by ROS 2 Humble and Raspberry Pi.
-- **[ZYNX AI](https://github.com/stairmoss)**: surprise soon !
-- **[Axion](https://github.com/stairmoss/Axion-nipa_virus-disinfectionrobot)**: An AI-driven autonomous air sanitization machine designed to combat viruses.
+### Technical Competencies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-00539C?style=flat-square&logo=kicad&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 💻 Tech Stack
-- **Languages:** Python, JavaScript, C/C++, HTML , CSS , Dart , Kotlin
-- **AI & ML:** Local LLMs (Ollama/Qwen), Computer Vision, Autonomous Systems
-- **Hardware:** ESP32, Raspberry Pi, Arduino, ROS 2, PCB Design (KiCad)
-- **Frameworks:** Full Stack Web, Python Stack
-- **Tools:**VS Code , Cursor, Windsurf, WSL, GitHub Desktop
+### Selected Recognition
+
+* **Global Indian Digital Fest (2026)** — First Runner-Up
+* **Hacktvm'25** — Winner (*"Stress Solver"*)
 
 ---
 
-### 🏆 Achievements
-- **First Runner-Up (2nd Place)**: 5th Edition Global Indian Digital Fest (2026)
-- **Winner**: Hacktvm'25 with the "Stress Solver" project
-- **Leader**: HackPKD (Hack Club chapter)
+### Affiliations & Context
+
+* **Organizations:** [Zentalic Labs](https://github.com/stairmoss) (CEO & CTO) | [Hack Club](https://hackclub.com) (HackPKD Lead)
+* **Location:** Palakkad, Kerala, India
+* **Contact:** [Instagram](https://www.instagram.com/_.adarsheyy_)
 
 ---
 
-### 🌐 Let's Connect
-- **Organization:** [Zentalic Labs](https://github.com/stairmoss)
-- **Community:** [Hack Club](https://hackclub.com)
-- **Location:** Palakkad , Kerala, India
-- **instagram:** https://www.instagram.com/_.adarsheyy_
+### Activity Metrics
+
+[![Hackatime Stats](https://waka-readme-stats.vercel.app/api?username=stairmoss&layout=compact&theme=radical&langs_count=10)](https://github.com/stairmoss)
+
+[![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)](https://github.com/stairmoss)
 
 ---
----
-## 📊 My Coding Activity (Hackatime)
-
-![Hackatime Stats](https://waka-readme-stats.vercel.app/api?username=stairmoss&layout=compact&theme=radical&langs_count=10)
----
-
-### 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stairmoss&layout=compact&theme=radical)
-
-*"Building the future, one line of code (or one prompt) at a time."*
+*"Building the future, one line of code at a time."*
