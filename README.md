@@ -23,8 +23,7 @@
 ### Affiliations & Context
 
 * **Organizations:** [Zentalic Labs](https://github.com/stairmoss) (CEO & CTO) | [Hack Club](https://hackclub.com) (HackPKD Lead)
-* **Location:** Palakkad, Kerala, India
-* **Contact:** [Instagram](https://www.instagram.com/_.adarsheyy_)
+* **Contact:** [_.adarsheyy_](https://www.instagram.com/_.adarsheyy_)
 
 ---
 
