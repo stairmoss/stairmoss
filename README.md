@@ -13,10 +13,8 @@
 
 ---
 
-### Selected Recognition
+** Major Milestones:** First Runner-Up (5th Edition Global Indian Digital Fest) • Winner (HackTVM — *Stress Solver*) • 1st Prize (Innovista 2025 Robotics) • Finalist & Competitor (Multiple hackathons & robotics exhibitions) • Innovation Representative (ATL Initiative, Vyasa Vidya Peethom)
 
-* **Global Indian Digital Fest (2026)** — First Runner-Up
-* **Hacktvm'25** — Winner (*"Stress Solver"*)
 
 ---
 
