@@ -25,7 +25,7 @@
 ---
 
 ### Activity Metrics
-[![hackatime](https://hackatime.hackclub.com/@Adarsh?date=2026-03-30)
+
 
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)](https://github.com/stairmoss)
 
