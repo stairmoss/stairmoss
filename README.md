@@ -25,6 +25,7 @@
 ---
 
 ### Activity Metrics
+https://github-readme-stats.hackclub.dev/api/wakatime?username=22664&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
 
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)](https://github.com/stairmoss)
