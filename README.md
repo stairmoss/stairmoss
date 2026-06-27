@@ -26,8 +26,12 @@
 
 ### Activity Metrics
 
-[![Adarsh's hackatime stats]([[https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical](https://github-readme-stats.hackclub.dev/api/wakatime?username=22664&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-))](https://github.com/stairmoss)
+<a href="https://heatmap.shymike.dev?id=22664&timezone=Asia%2FKolkata&ranges=70%2C27%2C10&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=22664&timezone=Asia%2FKolkata&ranges=70%2C27%2C10&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=22664&timezone=Asia%2FKolkata&ranges=70%2C27%2C10&theme=light">
+    </picture>
+</a>
 
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=radical)](https://github.com/stairmoss)
 
