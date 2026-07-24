@@ -20,29 +20,6 @@
 </p>
 
 ---
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stairmoss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stairmoss&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=stairmoss&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stairmoss&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
